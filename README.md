@@ -12,4 +12,4 @@ Dự án thực hành chuyên sâu về quản trị mạng và bảo mật hạ
 - **Công cụ sử dụng:** pfSense, Command-line networking tools.
 
 ## Tài liệu cấu hình chi tiết
-Chi tiết về bảng phân hoạch IP, sơ đồ đấu nối mạng và danh sách các Firewall Rules đã thiết lập có thể xem tại **[File Báo cáo PDF đính kèm][(Link_File_PDF_Của_Bạn_Trên_GitHub)](https://github.com/baokhang05/pfsense-firewall-dmz-config/blob/main/C%E1%BA%A5u%20h%C3%ACnh%20Firewall%20v%C3%A0%20v%C3%B9ng%20DMZ%20tr%C3%AAn%20pfSense.pdf)**.
+Chi tiết về bảng phân hoạch IP, sơ đồ đấu nối mạng và danh sách các Firewall Rules đã thiết lập có thể xem tại **[File Báo cáo PDF đính kèm](https://github.com/baokhang05/pfsense-firewall-dmz-config/blob/main/C%E1%BA%A5u%20h%C3%ACnh%20Firewall%20v%C3%A0%20v%C3%B9ng%20DMZ%20tr%C3%AAn%20pfSense.pdf)**.
